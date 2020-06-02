@@ -19,6 +19,7 @@
 123456:123456
 123456789:123456789
 *****:*****
+:
 aa:B@gheer@12
 Aberdeen:SD
 Acworth:GA
@@ -369,6 +370,8 @@ jr:123
 jr:123456
 jr:123456789
 jr:jr
+jr:passwd
+jr:password
 jr:test
 juju:B@gheer@12
 julia:123
@@ -5356,6 +5359,7 @@ ubuntu:passwd
 ubuntu:password
 ubuntu:qaz123!@#
 ubuntu:ubuntu
+ubuntu:ubuntu123
 uftp:B@gheer@12
 unt:B@gheer@12
 user1:B@gheer@12
